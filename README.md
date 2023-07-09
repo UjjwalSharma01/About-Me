@@ -1,4 +1,4 @@
-# Hi there! I'm Ujjwal Sharma 👋
+<h1 align="center">Hi there! I'm Ujjwal Sharma 👋</h1>
 
 
 ## Empowering the Future: Innovating for a Better World
