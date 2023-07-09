@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! I'm Ujjwal Sharma 👋</h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue)
+
 
 ## Empowering the Future: Innovating for a Better World
 
