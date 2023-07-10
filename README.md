@@ -39,4 +39,4 @@ You can find me on:
 
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
-<p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&locale=en" alt="ujjwalsharma01" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&" alt="ujjwalsharma01" /</p>
+<p align = "left" width = "50%" breadth = "50%">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&locale=en" alt="ujjwalsharma01" /><img align="right" width = "50%" breadth = "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&" alt="ujjwalsharma01" /</p>
