@@ -35,7 +35,17 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
 
 You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/ujjwalsharma01/)
+<p align="left">
+<a href="https://linkedin.com/in/ujjwalsharma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalsharma01" height="30" width="40" margin= "10" /></a>
+<a href="https://instagram.com/sharma_ujjwal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_ujjwal01" height="30" width="40" margin= "10"/></a>
+
+### Other profiles
+<a href="https://www.codechef.com/users/ujjwalsharma01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujjwalsharma01" height="30" width="40" margin= "10" /></a>
+<a href="https://www.hackerrank.com/ujjwalsharma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ujjwalsharma01" height="30" width="40" margin= "10" /></a>
+<a href="https://codeforces.com/profile/sharma_ujjwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharma_ujjwal" height="30" width="40" margin= "10" /></a>
+<a href="https://www.leetcode.com/sharma_ujjwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharma_ujjwal" height="30" width="40" margin= "10" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharma_ujjwal/profile" height="30" width="40" margin= "10" /></a>
+</p>
 
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
