@@ -4,7 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
 </p>
 
-## Empowering the Future: Innovating for a Better World
+<blockquote style="font-size: 24px;">
+  <p align="center">
+    <strong>"Empowering the Future: Innovating for a Better World"</strong>
+  </p>
+</blockquote>
 
 Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
 
