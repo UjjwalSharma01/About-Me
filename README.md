@@ -83,3 +83,11 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 
   
 </p>
+<details align="center"> 
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src= "https://github-profile-trophy.vercel.app/?username=ujjwalsharma01" alt="ujjwalsharma01"/>
+  </a>
+</p>
+</details>
