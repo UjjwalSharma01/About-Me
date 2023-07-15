@@ -81,13 +81,12 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
 
-  
-</p>
-<details align="center"> 
+<details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-trophy.vercel.app/?username=ujjwalsharma01" alt="ujjwalsharma01"/>
-  </a>
-</p>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsharma01&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  </p>
 </details>
+
+
