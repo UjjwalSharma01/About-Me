@@ -82,7 +82,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 
 
 <details align="center">
-  <summary>GitHub Trophies (Expand to view) 🏆</summary>
+  <summary>GitHub Trophies 🏆 (Expand to view) </summary>
   <br>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsharma01&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
