@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 ### 🚀 Expertise
 
-- Programming Languages: C++, C, Python
+- Programming Languages: C++, C, Python, Rust
 - Web Development: Currently learning and exploring
 - Soft Skills: Excellent Communication, Collaboration, and Public Speaking
 
