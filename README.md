@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 - Programming Languages: C++, C, Python
 - Web Development: Currently learning and exploring
-- Soft Skills: Excellent communication, collaboration, and public speaking
+- Soft Skills: Excellent Communication, Collaboration, and Public Speaking
 
 ### 💡 Interests
 
