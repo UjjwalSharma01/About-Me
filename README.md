@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 ### 🚀 Expertise
 
 - Programming Languages: C++, C, Python, Rust
-- Web Development and Blockchain Development: Currently learning and exploring
+- Web Development and Blockchain Development: Currently learning and Exploring
 - Soft Skills: Excellent Communication, Collaboration, and Public Speaking
 
 ### 💡 Interests
